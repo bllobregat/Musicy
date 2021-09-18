@@ -1,0 +1,23 @@
+/* Header */
+.Header {
+	display: flex;
+	justify-content: center;
+	padding: 5rem;
+	background-image: url("../img/music_background.jpg");
+	background-size: cover;
+	background-color: black;
+	background-position: center;
+}
+
+/* Form */
+.form {
+	width: 100%;
+	display: flex;
+	gap: 0.3rem;
+}
+
+.search {
+	flex-grow: 1;
+	padding: 1rem;
+	font-size: 1.5rem;
+}

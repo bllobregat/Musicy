@@ -1,0 +1,14 @@
+/* Footer */
+.footer{
+	display: flex;
+	justify-content: center;
+}
+
+.footer button{
+	background-color: goldenrod;
+    padding: 0.2rem 0.8rem;
+	margin: 0rem 0.4rem;
+    font-size: 1.2rem;
+	font-weight: bold;
+    cursor: pointer;
+}

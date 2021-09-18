@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Desktop\\Tests"
+		},
+		{
+			"path": "..\\..\\Desktop\\Tests\\MusicList"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MusicList"
+	}
+}
